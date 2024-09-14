@@ -1,0 +1,6 @@
+@PPP1_HostAddress = http://localhost:5016
+
+GET {{PPP1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
